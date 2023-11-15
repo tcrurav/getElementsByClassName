@@ -36,3 +36,4 @@ Enjoy!!!
 * https://www.conventionalcommits.org/en/v1.0.0/. A specification for adding human and machine readable meaning to commit messages.
 * https://nvie.com/posts/a-successful-git-branching-model/. A successful Git branching model.
 * https://learngitbranching.js.org/?locale=es_ES. A really funny game to learn Git branching.
+* https://ezgif.com/maker. Animated Gifs Made Easy. This site converts videos in Animated Gifs.
